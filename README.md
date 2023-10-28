@@ -1,6 +1,6 @@
 # Ornstein-Ulhenbeck-process
 
-The ornstein Ulhenbeck process $$x_{t}$$ is defind by the follwing Stochastic differential equation:
+The ornstein Ulhenbeck process $x_{t}$ is defind by the follwing Stochastic differential equation:
 
 $$ \frac{dx(t)}{dt} = -\lambda x(t) + w(t); \:  x(0) = x_{0} $$
 
