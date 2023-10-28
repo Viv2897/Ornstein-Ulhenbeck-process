@@ -1,7 +1,6 @@
 # Ornstein-Ulhenbeck-process
 
-Exercise 1 : 
-The equation given is -
+The ornstein Ulhenbeck process is defind by the follwing Stochastic differential equation:
 
 $$ \frac{dx(t)}{dt} = -\lambda x(t) + w(t); \:  x(0) = x_{0} $$
 
