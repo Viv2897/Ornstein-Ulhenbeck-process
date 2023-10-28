@@ -50,8 +50,11 @@ $$p(t) = \frac{1}{2\lambda} (1 - e^{-2\lambda t})$$
 $$\lim_{t \to \infty} p(t) = \frac{1}{2\lambda} $$
 
 Numerical simulation results
+<figure>
+  <img
+  src="https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png"
+  <figcaption>trajectories of ornstein ulhenbeck process for 1000 trials on t in Interval(0,1) with \lambda = 1/2, q = 1</figcaption>
+</figure>
 
-![plot](https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png) 
-                *trajectories of ornstein ulhenbeck process for 1000 trials on t in Interval(0,1) with \lambda = 1/2, q = 1,*  
 
 ![plot](https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/moments%20trajectories.png)
