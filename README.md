@@ -51,6 +51,6 @@ $$\lim_{t \to \infty} p(t) = \frac{1}{2\lambda} $$
 
 ## Numerical simulation results
 
-![plot][](https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png)
+<img src="https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png" width=50% height=50%>
 
 ![plot][](https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/moments%20trajectories.png)
