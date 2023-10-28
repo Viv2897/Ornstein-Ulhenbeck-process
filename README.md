@@ -57,12 +57,11 @@ $$\lim_{t \to \infty} p(t) = \frac{1}{2\lambda} $$
 #### Moment trajectories comparison with exact values
 <img src="https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/moments%20trajectories.png" width=50% height=50%>
 
-\begin{thebibliography}
-\\
-\begin{itemize}
-\item \url{https://en.wikipedia.org/wiki/Stochastic_differential_equation}
-\item \url{https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process}
-\item \url{https://en.wikipedia.org/wiki/It%C5%8D_calculus}
-\item \url{https://en.wikipedia.org/wiki/Euler%E2%80%93Maruyama_method}
-\item \url{https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/}
-\end{itemize}
+### References
+
+https://en.wikipedia.org/wiki/Stochastic_differential_equation
+https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process
+https://en.wikipedia.org/wiki/It%C5%8D_calculus
+https://en.wikipedia.org/wiki/Euler%E2%80%93Maruyama_method
+https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes
+
