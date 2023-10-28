@@ -51,8 +51,8 @@ $$\lim_{t \to \infty} p(t) = \frac{1}{2\lambda} $$
 
 ## Numerical simulation results
 
+#### trajectories of ornstein ulhenbeck process for 1000 trials
 <img src="https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png" width=50% height=50%>
-trajectories of ornstein ulhenbeck process for 1000 trials
 
+#### moment trajectories comparison with exact values
 <img src="https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/moments%20trajectories.png" width=50% height=50%>
-moment trajectories comparison with exact values
