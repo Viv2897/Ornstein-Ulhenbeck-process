@@ -53,7 +53,8 @@ Numerical simulation results
 <figure>
   <img
   src="https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png"
-  <figcaption>trajectories of ornstein ulhenbeck process for 1000 trials on t in Interval(0,1) with \lambda = 1/2, q = 1</figcaption>
+    alt="logo">
+  <figcaption>trajectories of ornstein ulhenbeck process for 1000 trials on t in Interval(0,1) with $\lambda = 1/2$, q = 1</figcaption>
 </figure>
 
 
