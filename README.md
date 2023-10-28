@@ -48,3 +48,19 @@ $$E[(\int_0^t e^{-\lambda (s-t)}w(s)ds)^2] = E[\int_0^t e^{-2\lambda (s-t)}ds] =
 $$p(t) = \frac{1}{2\lambda} (1 - e^{-2\lambda t})$$
 
 $$\lim_{t \to \infty} p(t) = \frac{1}{2\lambda} $$
+
+\subsection{Numerical simulation results:}
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=8cm]{numerical solution.png}
+    \caption{trajectories of ornstein ulhenbeck process for 1000 trials}
+    \label{fig:res}
+\end{figure}
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=8cm]{moments trajectories.png}
+    \caption{moment trajectories comparison with exact values}
+    \label{fig:res1}
+\end{figure}
