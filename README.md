@@ -2,7 +2,7 @@
 
 The ornstein Ulhenbeck process $x_{t}$ is defind by the follwing Stochastic differential equation:
 
-$$ \frac{dx(t)}{dt} = -\lambda x(t) + w(t); \:  x(0) = x_{0} $$
+$$ \frac{dx(t)}{dt} = -\lambda x(t) + w(t); \  x(0) = x_{0} $$
 
 Rearranging the above equation yields a form that is familiar, 
 
