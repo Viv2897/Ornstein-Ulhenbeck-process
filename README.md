@@ -25,6 +25,8 @@ $$\implies x(t) - e^{-\lambda t}x(0) = e^{-\lambda t}\int_0^t e^{\lambda s}w(s)d
 $$\implies x(t) = x_{0}e^{-\lambda t} + \int_0^t e^{-\lambda (s-t)}w(s)ds $$
 $$\implies x_{t} = x_{0}e^{-\lambda t} + \int_0^t e^{-\lambda (s-t)}w(s)ds $$
 
+The limit of the mean and variance as $t \to \infty$ is given by
+
 Mean:
 
 $$ m(t) = E[x_{t}] = E[x_{0}e^{-\lambda t} + \int_0^t e^{-\lambda (s-t)}w(s)ds]$$
@@ -33,7 +35,7 @@ The expectation of deterministic function w.r.t brownian is zero. So the second 
 
 $$ m(t) = x_{0}e^{-\lambda t} $$
 
-$\lim_{t \to \infty} m(t) = 0 $$
+$$\lim_{t \to \infty} m(t) = 0 $$
 
 Variance:
 
