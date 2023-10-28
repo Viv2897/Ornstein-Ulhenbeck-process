@@ -49,8 +49,8 @@ $$p(t) = \frac{1}{2\lambda} (1 - e^{-2\lambda t})$$
 
 $$\lim_{t \to \infty} p(t) = \frac{1}{2\lambda} $$
 
-\subsection{Numerical simulation results:}
+Numerical simulation results
 
-![plot]([https://github.com/[Viv2897]/[Ornstein-Ulhenbeck-process]/blob/[branch]/image.jpg?raw=true]https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png)
+![plot](https://github.com/Viv2897/Ornstein-Ulhenbeck-process/blob/main/numerical%20solution.png)
 
 
